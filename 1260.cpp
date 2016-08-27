@@ -1,3 +1,6 @@
+//https://www.acmicpc.net/problem/1260
+//2016-08-09
+
 #include <cstdio>
 #include <algorithm>
 #include <cstring>
